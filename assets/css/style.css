@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  flex-direction: column;
+  /* justify-items: center; */
+  align-items: center;
+  background-color: aquamarine;
+}
+
+a {
+  text-decoration: none;
+  color: purple;
+}
+
+a:hover {
+  color: rgb(15, 151, 144);
